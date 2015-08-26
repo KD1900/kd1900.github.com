@@ -102,11 +102,11 @@ th {
 }
 
 img {
-  max-width:50%;
+  max-width:100%;
 }
 
 header {
-  width:270px;
+  width:150px;
   float:left;
   position:fixed;
 }
