@@ -45,32 +45,40 @@ a small {
   display:block;
 }
 
+p.header-bottom {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+p.header-bottom a {
+  display: inline-block;
+}
 
-.facebook {
+a.facebook {
   background: url(../images/img-sprite.png) no-repeat 0px 0px;
   width: 24px;
   height: 24px;
   display: block;
 }
-.facebook:hover {
+a.facebook:hover {
   background: url(../images/img-sprite.png) no-repeat 0px -28px;
 }
-.twitter {
+a.twitter {
   background: url(../images/img-sprite.png) no-repeat -28px 0px;
   width: 24px;
   height: 24px;
   display: block;
 }
-.twitter:hover {
+a.twitter:hover {
   background: url(../images/img-sprite.png) no-repeat -28px -28px;
 }
-.gp {
+a.gp {
   background: url(../images/img-sprite.png) no-repeat -56px 0px;
   width: 24px;
   height: 24px;
   display: block;
 }
-.gp:hover {
+a.gp:hover {
   background: url(../images/img-sprite.png) no-repeat -56px -28px;
 }
 
