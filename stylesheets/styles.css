@@ -45,6 +45,16 @@ a small {
   display:block;
 }
 
+a.facebook {
+  background: url(../images/img-sprite.png) no-repeat 0px 0px;
+  width: 48px;
+  height: 48px;
+  display: block;
+}
+a.facebook:hover {
+  background: url(../images/img-sprite.png) no-repeat 0px -56px;
+}
+
 .wrapper {
   width:860px;
   margin:0 auto;
