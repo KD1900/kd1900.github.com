@@ -90,6 +90,51 @@ a.instagram {
 a.instagram:hover {
   background: url(../images/img-sprite.png) no-repeat -84px -28px;
 }
+a.linkedin {
+  background: url(../images/img-sprite.png) no-repeat -84px 0px;
+  width: 24px;
+  height: 24px;
+  display: block;
+}
+a.linkedin:hover {
+  background: url(../images/img-sprite.png) no-repeat -84px -28px;
+}
+a.github {
+  background: url(../images/img-sprite.png) no-repeat -84px 0px;
+  width: 24px;
+  height: 24px;
+  display: block;
+}
+a.github:hover {
+  background: url(../images/img-sprite.png) no-repeat -84px -28px;
+}
+a.csdn {
+  background: url(../images/img-sprite.png) no-repeat -84px 0px;
+  width: 24px;
+  height: 24px;
+  display: block;
+}
+a.csdn:hover {
+  background: url(../images/img-sprite.png) no-repeat -84px -28px;
+}
+a.qq {
+  background: url(../images/img-sprite.png) no-repeat -84px 0px;
+  width: 24px;
+  height: 24px;
+  display: block;
+}
+a.qq:hover {
+  background: url(../images/img-sprite.png) no-repeat -84px -28px;
+}
+a.weibo {
+  background: url(../images/img-sprite.png) no-repeat -84px 0px;
+  width: 24px;
+  height: 24px;
+  display: block;
+}
+a.weibo:hover {
+  background: url(../images/img-sprite.png) no-repeat -84px -28px;
+}
 
 
 .wrapper {
