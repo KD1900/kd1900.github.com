@@ -45,15 +45,35 @@ a small {
   display:block;
 }
 
+
 a.facebook {
   background: url(../images/img-sprite.png) no-repeat 0px 0px;
-  width: 30px;
-  height: 30px;
+  width: 24px;
+  height: 24px;
   display: block;
 }
 a.facebook:hover {
-  background: url(../images/img-sprite.png) no-repeat 0px -56px;
+  background: url(../images/img-sprite.png) no-repeat 0px -28px;
 }
+a.twitter {
+  background: url(../images/img-sprite.png) no-repeat -28px 0px;
+  width: 24px;
+  height: 24px;
+  display: block;
+}
+a.twitter:hover {
+  background: url(../images/img-sprite.png) no-repeat -28px -28px;
+}
+a.gp {
+  background: url(../images/img-sprite.png) no-repeat -56px 0px;
+  width: 24px;
+  height: 24px;
+  display: block;
+}
+a.gp:hover {
+  background: url(../images/img-sprite.png) no-repeat -56px -28px;
+}
+
 
 .wrapper {
   width:1000px;
