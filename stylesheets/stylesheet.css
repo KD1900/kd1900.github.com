@@ -11,7 +11,7 @@ body {
 
 a {
   color: #1e6bb8;
-  text-decoration: none; }
+  text-decoration: none; }Consolas
   a:hover {
     text-decoration: underline; }
 
@@ -117,7 +117,7 @@ a {
   margin-bottom: 1em; }
 .main-content code {
   padding: 2px 4px;
-  font-family: Georgia, "Liberation Mono", Menlo, Courier, monospace;
+  font-family: Consolas, "Liberation Mono", Menlo, Courier, monospace;
   font-size: 0.9rem;
   color: #383e41;
   background-color: #f3f6fa;
@@ -126,7 +126,7 @@ a {
   padding: 0.8rem;
   margin-top: 0;
   margin-bottom: 1rem;
-  font: 1rem Georgia, "Liberation Mono", Menlo, Courier, monospace;
+  font: 1rem Consolas, "Liberation Mono", Menlo, Courier, monospace;
   color: #567482;
   word-wrap: normal;
   background-color: #f3f6fa;
