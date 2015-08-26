@@ -1,8 +1,8 @@
 @import url(https://fonts.googleapis.com/css?family=Lato:300italic,700italic,300,700);
 
 body {
-  padding:90px;
-  font:14px/1.5 Georgia, serif, Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  padding:50px;
+  font:20px/1.5 Georgia, serif, Lato, "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#404040;
   font-weight:300;
 }
