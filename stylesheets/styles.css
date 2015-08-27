@@ -91,12 +91,6 @@ a.instagram:hover {
   background: url(../images/img-sprite.png) no-repeat -84px -28px;
 }
 a.linkedin {
-  background: url(../images/img-sprite.png) no-repeat -84px 0px;
-  width: 24px;
-  height: 24px;
-  display: block;
-}
-a.linkedin {
   background: url(../images/img-sprite.png) no-repeat -112px 0px;
   width: 24px;
   height: 24px;
@@ -114,32 +108,96 @@ a.github {
 a.github:hover {
   background: url(../images/img-sprite.png) no-repeat -140px -28px;
 }
+
+
+
+
+
+
 a.csdn {
-  background: url(../images/img-sprite.png) no-repeat -168px 0px;
+  background: url(../images/img-sprite.png) no-repeat 0px -56px;
   width: 24px;
   height: 24px;
   display: block;
 }
 a.csdn:hover {
-  background: url(../images/img-sprite.png) no-repeat -168px -28px;
+  background: url(../images/img-sprite.png) no-repeat 0px -84px;
 }
 a.qq {
-  background: url(../images/img-sprite.png) no-repeat -196px 0px;
+  background: url(../images/img-sprite.png) no-repeat -28px -56px;
   width: 24px;
   height: 24px;
   display: block;
 }
 a.qq:hover {
-  background: url(../images/img-sprite.png) no-repeat -196px -28px;
+  background: url(../images/img-sprite.png) no-repeat -28px -84px;
 }
 a.weibo {
-  background: url(../images/img-sprite.png) no-repeat -224px 0px;
+  background: url(../images/img-sprite.png) no-repeat -56px -56px;
   width: 24px;
   height: 24px;
   display: block;
 }
 a.weibo:hover {
-  background: url(../images/img-sprite.png) no-repeat -224px -28px;
+  background: url(../images/img-sprite.png) no-repeat -56px -84px;
+}
+a.renren {
+  background: url(../images/img-sprite.png) no-repeat -84px -56px;
+  width: 24px;
+  height: 24px;
+  display: block;
+}
+a.renren:hover {
+  background: url(../images/img-sprite.png) no-repeat -84px -84px;
+}
+a.douban {
+  background: url(../images/img-sprite.png) no-repeat -112px -56px;
+  width: 24px;
+  height: 24px;
+  display: block;
+}
+a.douban:hover {
+  background: url(../images/img-sprite.png) no-repeat -112px -84px;
+}
+a.zhihu {
+  background: url(../images/img-sprite.png) no-repeat -140px -56px;
+  width: 24px;
+  height: 24px;
+  display: block;
+}
+a.zhihu:hover {
+  background: url(../images/img-sprite.png) no-repeat -140px -84px;
+}
+
+
+
+
+a.lofter {
+  background: url(../images/img-sprite.png) no-repeat 0px -112px;
+  width: 24px;
+  height: 24px;
+  display: block;
+}
+a.lofter:hover {
+  background: url(../images/img-sprite.png) no-repeat 0px -140px;
+}
+a.xiami {
+  background: url(../images/img-sprite.png) no-repeat -28px -112px;
+  width: 24px;
+  height: 24px;
+  display: block;
+}
+a.xiami:hover {
+  background: url(../images/img-sprite.png) no-repeat -28px -140px;
+}
+a.pianke {
+  background: url(../images/img-sprite.png) no-repeat -56px -112px;
+  width: 24px;
+  height: 24px;
+  display: block;
+}
+a.pianke:hover {
+  background: url(../images/img-sprite.png) no-repeat -56px -140px;
 }
 
 
